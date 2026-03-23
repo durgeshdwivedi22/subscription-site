@@ -2,9 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const helmet = require('helmet');
 const rateLimit = require('express-rate-limit');
-app.get("/", (req, res) => {
-  res.send("API is running 🚀");
-});
+
 // Set environment variables inline for demo
 process.env.JWT_SECRET = 'demo_secret_key_for_testing_only';
 process.env.PORT = process.env.PORT || 5000;
