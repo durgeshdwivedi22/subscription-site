@@ -9,7 +9,7 @@ A full-stack web application that combines subscription-based access, golf score
 ## 🌐 Live Links
 
 * ⚙️ Backend API (Render): https://subscription-site-r12p.onrender.com
-* 🚀 Frontend (Vercel): (add your frontend link here)
+* 🚀 Frontend (Vercel): https://subscription-site-r12p.onrender.com
 
 ---
 
